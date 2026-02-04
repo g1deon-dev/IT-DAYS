@@ -1,0 +1,13 @@
+1
+Task to delete
+High
+1
+Task to keep
+Medium
+1
+Another task
+Low
+7
+2
+2
+6

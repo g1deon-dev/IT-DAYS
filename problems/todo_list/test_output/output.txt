@@ -1,0 +1,30 @@
+
+=== To-Do List ===
+1. Add Task
+2. Display All Tasks
+3. Mark Task Complete
+4. Display Pending Tasks
+5. Display by Priority
+6. Exit
+7. Delete Task
+Enter choice: Enter task description: Enter priority (High/Medium/Low): Task added successfully
+
+=== To-Do List ===
+1. Add Task
+2. Display All Tasks
+3. Mark Task Complete
+4. Display Pending Tasks
+5. Display by Priority
+6. Exit
+7. Delete Task
+Enter choice: Enter task ID to delete: Error: Task not found
+
+=== To-Do List ===
+1. Add Task
+2. Display All Tasks
+3. Mark Task Complete
+4. Display Pending Tasks
+5. Display by Priority
+6. Exit
+7. Delete Task
+Enter choice: Exiting...
