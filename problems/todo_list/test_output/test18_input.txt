@@ -1,0 +1,13 @@
+1
+Alpha
+High
+1
+Beta
+Medium
+1
+Gamma
+Low
+7
+3
+2
+6

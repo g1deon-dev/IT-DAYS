@@ -1,0 +1,15 @@
+1
+High One
+High
+1
+High Two
+High
+1
+High Three
+High
+1
+Medium One
+Medium
+5
+High
+6

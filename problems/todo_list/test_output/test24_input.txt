@@ -1,0 +1,32 @@
+1
+Task A
+High
+1
+Task B
+High
+1
+Task C
+Medium
+1
+Task D
+Medium
+1
+Task E
+Low
+1
+Task F
+Low
+1
+Task G
+High
+1
+Task H
+Medium
+1
+Task I
+Low
+1
+Task J
+High
+2
+6

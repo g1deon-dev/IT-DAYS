@@ -1,0 +1,12 @@
+1
+High task
+High
+1
+Medium task
+Medium
+1
+Low task
+Low
+5
+Medium
+6

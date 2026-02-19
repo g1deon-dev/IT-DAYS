@@ -1,1 +1,4 @@
-Enter Quiz score (0-100): Enter Midterm score (0-100): Error: Invalid score
+Enter Quiz score (0-100): Enter Midterm score (0-100): Enter Finals score (0-100): Enter Project score (0-100): 
+Final Grade: 93.21
+Letter Grade: A
+Remarks: Excellent

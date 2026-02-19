@@ -17,7 +17,211 @@ Enter choice: Enter task description: Enter priority (High/Medium/Low): Task add
 5. Display by Priority
 6. Exit
 7. Delete Task
-Enter choice: Enter task ID to delete: Error: Task not found
+Enter choice: Enter task description: Enter priority (High/Medium/Low): Task added successfully
+
+=== To-Do List ===
+1. Add Task
+2. Display All Tasks
+3. Mark Task Complete
+4. Display Pending Tasks
+5. Display by Priority
+6. Exit
+7. Delete Task
+Enter choice: Enter task description: Enter priority (High/Medium/Low): Task added successfully
+
+=== To-Do List ===
+1. Add Task
+2. Display All Tasks
+3. Mark Task Complete
+4. Display Pending Tasks
+5. Display by Priority
+6. Exit
+7. Delete Task
+Enter choice: Enter task description: Enter priority (High/Medium/Low): Task added successfully
+
+=== To-Do List ===
+1. Add Task
+2. Display All Tasks
+3. Mark Task Complete
+4. Display Pending Tasks
+5. Display by Priority
+6. Exit
+7. Delete Task
+Enter choice: Enter task description: Enter priority (High/Medium/Low): Task added successfully
+
+=== To-Do List ===
+1. Add Task
+2. Display All Tasks
+3. Mark Task Complete
+4. Display Pending Tasks
+5. Display by Priority
+6. Exit
+7. Delete Task
+Enter choice: Enter task description: Enter priority (High/Medium/Low): Task added successfully
+
+=== To-Do List ===
+1. Add Task
+2. Display All Tasks
+3. Mark Task Complete
+4. Display Pending Tasks
+5. Display by Priority
+6. Exit
+7. Delete Task
+Enter choice: Enter task description: Enter priority (High/Medium/Low): Task added successfully
+
+=== To-Do List ===
+1. Add Task
+2. Display All Tasks
+3. Mark Task Complete
+4. Display Pending Tasks
+5. Display by Priority
+6. Exit
+7. Delete Task
+Enter choice: Enter task description: Enter priority (High/Medium/Low): Task added successfully
+
+=== To-Do List ===
+1. Add Task
+2. Display All Tasks
+3. Mark Task Complete
+4. Display Pending Tasks
+5. Display by Priority
+6. Exit
+7. Delete Task
+Enter choice: Enter task description: Enter priority (High/Medium/Low): Task added successfully
+
+=== To-Do List ===
+1. Add Task
+2. Display All Tasks
+3. Mark Task Complete
+4. Display Pending Tasks
+5. Display by Priority
+6. Exit
+7. Delete Task
+Enter choice: Enter task description: Enter priority (High/Medium/Low): Task added successfully
+
+=== To-Do List ===
+1. Add Task
+2. Display All Tasks
+3. Mark Task Complete
+4. Display Pending Tasks
+5. Display by Priority
+6. Exit
+7. Delete Task
+Enter choice: Enter task description: Enter priority (High/Medium/Low): Task added successfully
+
+=== To-Do List ===
+1. Add Task
+2. Display All Tasks
+3. Mark Task Complete
+4. Display Pending Tasks
+5. Display by Priority
+6. Exit
+7. Delete Task
+Enter choice: Enter task description: Enter priority (High/Medium/Low): Task added successfully
+
+=== To-Do List ===
+1. Add Task
+2. Display All Tasks
+3. Mark Task Complete
+4. Display Pending Tasks
+5. Display by Priority
+6. Exit
+7. Delete Task
+Enter choice: Enter task description: Enter priority (High/Medium/Low): Task added successfully
+
+=== To-Do List ===
+1. Add Task
+2. Display All Tasks
+3. Mark Task Complete
+4. Display Pending Tasks
+5. Display by Priority
+6. Exit
+7. Delete Task
+Enter choice: Enter task description: Enter priority (High/Medium/Low): Task added successfully
+
+=== To-Do List ===
+1. Add Task
+2. Display All Tasks
+3. Mark Task Complete
+4. Display Pending Tasks
+5. Display by Priority
+6. Exit
+7. Delete Task
+Enter choice: Enter task description: Enter priority (High/Medium/Low): Task added successfully
+
+=== To-Do List ===
+1. Add Task
+2. Display All Tasks
+3. Mark Task Complete
+4. Display Pending Tasks
+5. Display by Priority
+6. Exit
+7. Delete Task
+Enter choice: Enter task ID to mark as complete: Task marked as completed
+
+=== To-Do List ===
+1. Add Task
+2. Display All Tasks
+3. Mark Task Complete
+4. Display Pending Tasks
+5. Display by Priority
+6. Exit
+7. Delete Task
+Enter choice: Enter task ID to mark as complete: Task marked as completed
+
+=== To-Do List ===
+1. Add Task
+2. Display All Tasks
+3. Mark Task Complete
+4. Display Pending Tasks
+5. Display by Priority
+6. Exit
+7. Delete Task
+Enter choice: Enter task ID to mark as complete: Task marked as completed
+
+=== To-Do List ===
+1. Add Task
+2. Display All Tasks
+3. Mark Task Complete
+4. Display Pending Tasks
+5. Display by Priority
+6. Exit
+7. Delete Task
+Enter choice: Enter task ID to delete: Task deleted successfully
+
+=== To-Do List ===
+1. Add Task
+2. Display All Tasks
+3. Mark Task Complete
+4. Display Pending Tasks
+5. Display by Priority
+6. Exit
+7. Delete Task
+Enter choice: Enter task ID to delete: Task deleted successfully
+
+=== To-Do List ===
+1. Add Task
+2. Display All Tasks
+3. Mark Task Complete
+4. Display Pending Tasks
+5. Display by Priority
+6. Exit
+7. Delete Task
+Enter choice: 
+=== All Tasks ===
+ID: 1 | Stress 1 | Priority: High | Status: Completed
+ID: 2 | Stress 2 | Priority: Medium | Status: Pending
+ID: 4 | Stress 4 | Priority: High | Status: Pending
+ID: 5 | Stress 5 | Priority: Medium | Status: Completed
+ID: 6 | Stress 6 | Priority: Low | Status: Pending
+ID: 8 | Stress 8 | Priority: Medium | Status: Pending
+ID: 9 | Stress 9 | Priority: Low | Status: Completed
+ID: 10 | Stress 10 | Priority: High | Status: Pending
+ID: 11 | Stress 11 | Priority: Medium | Status: Pending
+ID: 12 | Stress 12 | Priority: Low | Status: Pending
+ID: 13 | Stress 13 | Priority: High | Status: Pending
+ID: 14 | Stress 14 | Priority: Medium | Status: Pending
+ID: 15 | Stress 15 | Priority: Low | Status: Pending
 
 === To-Do List ===
 1. Add Task

@@ -1,0 +1,7 @@
+1
+P001
+Out of Stock Item
+0
+1000
+4
+6

@@ -1,0 +1,16 @@
+1
+Alpha task
+High
+1
+Beta task
+Medium
+1
+Gamma task
+Low
+3
+1
+7
+3
+2
+4
+6

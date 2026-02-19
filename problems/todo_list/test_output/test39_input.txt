@@ -1,0 +1,4 @@
+1
+   Leading and trailing spaces   
+Medium
+6
